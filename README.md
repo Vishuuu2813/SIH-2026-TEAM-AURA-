@@ -1,4 +1,4 @@
-# SIH-2026-TEAM-AURA-
+# SIH-2026-TEAM-AURA
 
 # KrishiRoute — Intelligent Agricultural Transaction & Fulfilment Platform
 > **Connect • Optimize • Nourish** | *Direct Farmgate-to-Buyer Coordination, AI Route Optimization & Guaranteed Escrow Payouts*
